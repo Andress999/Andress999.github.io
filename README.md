@@ -107,7 +107,7 @@ Soy especialista en soporte técnico con experiencia en diagnóstico y solución
 **💼 LinkedIn:** [Agregar tu perfil de LinkedIn]  
 **💬 WhatsApp:** +57 3118551200
 
-**🌍 Disponible para clientes en:** Colombia, Latinoamérica, Estados Unidos, Europa
+**🌍 Disponible para clientes en:Latinoamérica, Estados Unidos, Europa
 
 
 > 💡 **Mi filosofía:** Honestidad técnica sobre todo. Si tu problema requiere intervención física, te lo diré claramente y te orientaré sobre los siguientes pasos.
