@@ -1,94 +1,116 @@
 # 👋 Hola, soy Andrés
 
-## 🛠️ Especialista en Soporte Técnico y Análisis de Sistemas
+## 🛠️ Especialista en Soporte Técnico **100% Remoto**
 
 ### Sobre Mí
-Soy tecnólogo en Análisis y Desarrollo de Sistemas con experiencia en soporte técnico, diagnóstico de problemas y optimización de sistemas. Mi enfoque está en proporcionar soluciones técnicas efectivas y orientación clara.
+Soy especialista en soporte técnico remoto con experiencia en diagnóstico y solución de problemas via acceso remoto. Mi enfoque es honesto y práctico: te ayudo a identificar problemas y encontrar soluciones realistas.
 
 ---
 
-## 🎯 Servicios que Ofrezco
+## 🎯 **Servicios 100% Remotos que Ofrezco**
 
-### 🔍 Diagnóstico Técnico Remoto
-- Análisis de problemas de hardware y software
-- Identificación de fallas en sistemas operativos
-- Diagnóstico de problemas de conectividad
+### 🔍 **Diagnóstico Técnico Remoto**
+- Análisis de problemas de software via TeamViewer/AnyDesk
+- Identificación de errores del sistema operativo
+- Diagnóstico de problemas de conectividad a internet
+- Análisis de rendimiento del sistema
 
-### ⚡ Optimización y Mantenimiento
-- Limpieza y aceleración de sistemas
-- Eliminación de malware y virus
-- Configuración de redes y seguridad básica
+### ⚡ **Optimización y Mantenimiento Remoto**
+- Limpieza de archivos temporales y cache
+- Eliminación de malware y virus (via software)
+- Optimización de inicio del sistema
+- Configuración de redes WiFi y VPN
 
-### ☁️ Soporte Cloud para PYMES
+### 📧 **Configuración Remota de Software**
+- Instalación y configuración de programas
 - Configuración de Office 365 y Google Workspace
-- Migración a soluciones en la nube
-- Backup y recuperación de datos
+- Setup de correos empresariales
+- Configuración de backup en la nube
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ **Habilidades Técnicas Remotas**
+
+**Herramientas de Acceso Remoto:**
+`TeamViewer` `AnyDesk` `Remote Desktop` `Chrome Remote Desktop`
 
 **Sistemas Operativos:**
-`Windows 10/11` `Windows Server` `Linux Ubuntu`
+`Windows 10/11` `Windows 8/7` `Linux Ubuntu` `macOS Basics`
 
-**Herramientas de Soporte:**
-`TeamViewer` `AnyDesk` `Remote Desktop` `Zendesk`
+**Software y Utilidades:**
+`Office 365` `Google Workspace` `Antivirus Tools` `Browser Configuration`
 
-**Redes y Conectividad:**
-`TCP/IP` `DNS` `VPN` `WiFi Configuration`
-
-**Cloud y Herramientas:**
-`Office 365` `Google Workspace` `Azure Basics` `Git` `PowerShell`
+**Redes Remotas:**
+`WiFi Setup` `VPN Configuration` `Network Troubleshooting` `Internet Connectivity`
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 **Proyectos Realizados 100% Remotos**
 
-### Proyecto 1: Optimización de Sistema Lento
+### Proyecto 1: Diagnóstico de Sistema Lento
 ```bash
-# Caso: Computadora con arranque de 5+ minutos
-# Solución aplicada:
-- Limpieza de archivos temporales y registro
-- Optimización de servicios de inicio
-- Actualización de controladores críticos
-- Configuración de energía para máximo rendimiento
-# Resultado: Tiempo de arranque reducido a 45 segundos
+# Problema: Computadora extremadamente lenta (remoto)
+# Análisis remoto realizado:
+- Identificación de múltiples programas en startup
+- Disco duro al 95% de capacidad
+- Servicios innecesarios consumiendo recursos
+- Ausencia de mantenimiento regular
+# Solución aplicada (remota):
+- Limpieza de archivos temporales
+- Desactivación de programas auto-inicio
+- Configuración de liberación espacio automático
+- Optimización de servicios Windows
+# Resultado: 70% mejora en velocidad
 ```
 
-### Proyecto 2: Configuración de Red para Oficina
+### Proyecto 2: Configuración Office 365 Remota
 ```bash
-# Caso: Oficina pequeña con problemas de conectividad
-# Solución implementada:
-- Configuración de router empresarial
-- Segmentación de red WiFi
-- Implementación de políticas de seguridad
-- Configuración de acceso remoto seguro
-# Resultado: Conectividad estable y segura
+# Problema: Empresa necesitaba migrar a correos profesionales
+# Proceso remoto:
+- Configuración de dominio en Office 365
+- Creación de 15 cuentas de correo corporativo
+- Configuración en Outlook y celulares
+- Capacitación remota al personal
+# Resultado: Comunicación profesional establecida
 ```
 
-### Proyecto 3: Migración a Cloud
+### Proyecto 3: Resolución de Problemas de Conexión
 ```bash
-# Caso: Empresa usando correos personales
-# Proceso realizado:
-- Configuración de dominio corporativo
-- Migración a Office 365 (20+ cuentas)
-- Capacitación básica al personal
-- Implementación de backup automático
-# Resultado: Imagen profesional y colaboración mejorada
+# Problema: Usuario no podía conectarse a internet
+# Diagnóstico remoto:
+- Análisis de configuración TCP/IP
+- Verificación de drivers de red
+- Revisión de configuración WiFi
+- Identificación de conflicto con VPN
+# Solución remota:
+- Reset de configuración de red
+- Reinstalación drivers de red
+- Reconfiguración de conexión
+# Resultado: Conexión restablecida 100%
 ```
 
 ---
 
-## 📫 Contáctame
+## ⚠️ **Servicios que NO Ofrezco**
+- Reparación física de hardware
+- Instalación de componentes físicos
+- Visitas presenciales
+- Soporte para hardware dañado físicamente
 
-**💼 LinkedIn:** [Agregar tu perfil de LinkedIn]  
+---
+
+## 📫 **Contáctame para Soporte Remoto**
+
 **📧 Email:** andres.soporte.tech@protonmail.com  
 **🔧 Fiverr:** [Agregar tu perfil de Fiverr]  
+**💼 LinkedIn:** [Agregar tu perfil de LinkedIn]  
 **💬 WhatsApp:** +57 [tu número]  
+
+**🌍 Disponible para clientes en:** Colombia, Latinoamérica, Estados Unidos, Europa
 
 ---
 
-## 📊 Mis Estadísticas GitHub
+## 📊 **Mi Actividad en GitHub**
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andress999&show_icons=true&theme=radical)
 
@@ -96,5 +118,4 @@ Soy tecnólogo en Análisis y Desarrollo de Sistemas con experiencia en soporte 
 
 ---
 
-## 🔄 Última Actualización
-🔄 Actualizado regularmente con nuevos proyectos y habilidades.
+> 💡 **Mi filosofía:** Honestidad técnica sobre todo. Si tu problema requiere intervención física, te lo diré claramente y te orientaré sobre los siguientes pasos.
