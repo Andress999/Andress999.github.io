@@ -3,11 +3,11 @@
 ## 🛠️ Especialista en Soporte Técnico **100% Remoto**
 
 ### Sobre Mí
-Soy especialista en soporte técnico remoto con experiencia en diagnóstico y solución de problemas via acceso remoto. Mi enfoque es honesto y práctico: te ayudo a identificar problemas y encontrar soluciones realistas.
+Soy especialista en soporte técnico con experiencia en diagnóstico y solución de problemas via acceso remoto. Mi enfoque es honesto y práctico: te ayudo a identificar problemas y encontrar soluciones realistas.
 
 ---
 
-## 🎯 **Servicios 100% Remotos que Ofrezco**
+## 🎯 **Servicios que Ofrezco**
 
 ### 🔍 **Diagnóstico Técnico Remoto**
 - Análisis de problemas de software via TeamViewer/AnyDesk
@@ -15,13 +15,13 @@ Soy especialista en soporte técnico remoto con experiencia en diagnóstico y so
 - Diagnóstico de problemas de conectividad a internet
 - Análisis de rendimiento del sistema
 
-### ⚡ **Optimización y Mantenimiento Remoto**
+### ⚡ **Optimización y Mantenimiento**
 - Limpieza de archivos temporales y cache
 - Eliminación de malware y virus (via software)
 - Optimización de inicio del sistema
 - Configuración de redes WiFi y VPN
 
-### 📧 **Configuración Remota de Software**
+### 📧 **Configuración de Software**
 - Instalación y configuración de programas
 - Configuración de Office 365 y Google Workspace
 - Setup de correos empresariales
@@ -60,6 +60,7 @@ Soy especialista en soporte técnico remoto con experiencia en diagnóstico y so
 - Desactivación de programas auto-inicio
 - Configuración de liberación espacio automático
 - Optimización de servicios Windows
+- Recomendaciones para el cambio de componentes
 # Resultado: 70% mejora en velocidad
 ```
 
@@ -104,18 +105,9 @@ Soy especialista en soporte técnico remoto con experiencia en diagnóstico y so
 **📧 Email:** andres.soporte.tech@protonmail.com  
 **🔧 Fiverr:** [Agregar tu perfil de Fiverr]  
 **💼 LinkedIn:** [Agregar tu perfil de LinkedIn]  
-**💬 WhatsApp:** +57 [tu número]  
+**💬 WhatsApp:** +57 3118551200
 
 **🌍 Disponible para clientes en:** Colombia, Latinoamérica, Estados Unidos, Europa
 
----
-
-## 📊 **Mi Actividad en GitHub**
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andress999&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Andress999&layout=compact&theme=radical)
-
----
 
 > 💡 **Mi filosofía:** Honestidad técnica sobre todo. Si tu problema requiere intervención física, te lo diré claramente y te orientaré sobre los siguientes pasos.
